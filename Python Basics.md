@@ -180,7 +180,6 @@ z = str(123) # from int to str
 |     %      | Modulus         |  x % y    |
 |    **      | Exponention     |  x ** y   |
 |    //      | Floor Division  |  x // y   |
-|            |                 |           |
 
 **Example Addition :**
 ```py
@@ -230,8 +229,7 @@ Comparison operators are used to compare two values:
 | >         | Greater than               | x == y     | 
 | <         | Less than                  | x == y     | 
 | >=        | Greater than or Equal to   | x == y     | 
-| <=        | Less than or Equal to      | x == y     | 
-|           |                            |            |
+| <=        | Less than or Equal to      | x == y     |
 
 **Example Comparison Operators :**
 ```py
@@ -408,7 +406,6 @@ range(1, 10, 2) → 1, 3, 5, 7, 9
 | break     | Exit the loop immediately                    |
 | continue  | Skip the current iteration and continue      |
 | else      | Runs when loop finishes naturally (no break) |
-|           |                                              |
 
 #### When to Use for vs while
 
@@ -418,7 +415,6 @@ range(1, 10, 2) → 1, 3, 5, 7, 9
 | Looping a known numbers of times    | for loop      |
 | Waiting for a condition to be true  | while loop    |
 | Creating infinite loops (with exit) | while loop    |
-|                                     |               |
 
 #### Real-World Examples
 
@@ -428,7 +424,6 @@ range(1, 10, 2) → 1, 3, 5, 7, 9
 | Taking input until valid     | while loop    | while not valid_input: |
 | Searching for a value        | for + break   | for item in list:      |
 | Skipping certain conditions  | continue      | if value < 0: continue |
-|                              |               |                        |
 
 #### Common Mistakes to Avoid
 - **Forgetting to update condition in while loops** → leads to infinite loops
@@ -444,7 +439,6 @@ range(1, 10, 2) → 1, 3, 5, 7, 9
 | break       | Exit loop early                           |
 | continue    | Skip to the next iteration                |
 | else        | Runs after loop only if not broken        |
-|             |                                           |
 
 <hr>
 
@@ -509,7 +503,6 @@ Output is: 5
 | Default          | def greet(name="Guest")   |
 | Keyword          | greet(name="Sudhir")      |
 | Variable-length  | *args, **kwargs           |
-|                  |                           |
 
 ### 4. Default Parameters
 
@@ -601,5 +594,5 @@ The square is: 16
 | lambda       | Anonymous function                     |
 | Local Scope  | Variable inside a function             | 
 | Global Scope | Variable outside a function            |
-|              |                                        |
+
 <hr>
