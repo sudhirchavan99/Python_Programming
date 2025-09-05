@@ -8,3 +8,4 @@
 ◾ [Q&A on Arithmatic Operators](https://github.com/sudhirchavan99/Python_Programming/blob/99130ff6ca4f5302b2f8b93cd35e28731e240e60/Python%20Q%26A/Practice%20Q%26A%20-%20Operators%20-%20Arithmetic%20.ipynb)<br>
 ◾ [Q&A on Logical Operators](https://github.com/sudhirchavan99/Python_Programming/blob/99130ff6ca4f5302b2f8b93cd35e28731e240e60/Python%20Q%26A/Practice%20Q%26A%20-%20Operators-Logical.ipynb)<br>
 ◾ [Q&A on Comparison Operators](https://github.com/sudhirchavan99/Python_Programming/blob/99130ff6ca4f5302b2f8b93cd35e28731e240e60/Python%20Q%26A/Practice%20Q%26A%20-%20Operators%20-%20Comparison%20Operators.ipynb)<br>
+◾ [Q&A on Conditional Statements](https://github.com/sudhirchavan99/Python_Programming/blob/a9969b8955b92feb9458e1cbbd2a21e17e10cb19/Python%20Q%26A/Practice%20Q%26A%20-%20Conditional%20Statements.ipynb)<br>
